@@ -1,0 +1,11 @@
+/home/rorka/rorkos/fastfetch/CMakeFiles/libfastfetch.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/fastfetch.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/flashfetch.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/package.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/package_source.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/edit_cache.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/rebuild_cache.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/list_install_components.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/install.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/install/local.dir
+/home/rorka/rorkos/fastfetch/CMakeFiles/install/strip.dir

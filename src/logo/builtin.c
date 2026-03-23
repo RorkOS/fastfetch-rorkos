@@ -4178,7 +4178,7 @@ static const FFlogo Q[] = {
 };
 
 static const FFlogo R[] = {
-    // Radix
+	// Radix
     {
         .names = {"Radix"},
         .lines = FASTFETCH_DATATEXT_LOGO_RADIX,
@@ -4366,6 +4366,25 @@ static const FFlogo R[] = {
         },
         .colorKeys = FF_COLOR_FG_GREEN,
         .colorTitle = FF_COLOR_FG_GREEN,
+    },
+    // RorkOS
+    {
+        .names = {"rorkos", "RorkOS"},
+        .lines = FASTFETCH_DATATEXT_LOGO_RORKOS,
+        .colors = {
+            FF_COLOR_FG_LIGHT_BLUE,
+            FF_COLOR_FG_WHITE,
+        },
+    },
+    // RorkOS Small
+    {
+        .names = {"rorkos_small"},
+        .type = FF_LOGO_LINE_TYPE_SMALL_BIT,
+        .lines = FASTFETCH_DATATEXT_LOGO_RORKOS_SMALL,
+        .colors = {
+            FF_COLOR_FG_LIGHT_BLUE,
+            FF_COLOR_FG_WHITE,
+        },
     },
     // RockyLinuxSmall
     {

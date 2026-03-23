@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/rorka/rorkos/fastfetch/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
